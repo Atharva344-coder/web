@@ -1,0 +1,15 @@
+body{
+    color: white;
+    background:aqua;
+}
+h3{
+    width: 90%;
+    font-size: 25px;
+}
+#camera{
+    width: 375px;
+    height: 317px;
+}
+#result_of_objects, #result_of_accuracy{
+    color: rgb(244, 109, 215);
+}
